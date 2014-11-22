@@ -1,0 +1,317 @@
+Ryan Sloan 
+Linked List Script Log 
+
+
+Entry: 7
+
+Get Front: There is no one on the list
+
+
+The Current List: 
+
+List Size: 0
+
+The list is empty.
+
+
+
+Entry: 2
+
+Push_Front: WALLACE, JO 
+
+
+The Current List: 
+
+List Size: 1
+
+WALLACE, JO  | 
+
+
+Entry: 2
+
+Push_Front: RAY, JUAN 
+
+
+The Current List: 
+
+List Size: 2
+
+RAY, JUAN  | WALLACE, JO  | 
+
+
+Entry: 2
+
+Push_Front: HERNANDEZ, PAULINE 
+
+
+The Current List: 
+
+List Size: 3
+
+HERNANDEZ, PAULINE  | RAY, JUAN  | WALLACE, JO  | 
+
+
+Entry: 3
+
+Push_Back: SIMMONS, ROBERT 
+
+
+The Current List: 
+
+List Size: 4
+
+HERNANDEZ, PAULINE  | RAY, JUAN  | WALLACE, JO  | 
+SIMMONS, ROBERT  | 
+
+
+Entry: 6
+
+Remove: RE
+
+
+The Current List: 
+
+List Size: 4
+
+HERNANDEZ, PAULINE  | RAY, JUAN  | WALLACE, JO  | 
+SIMMONS, ROBERT  | 
+
+
+Entry: 10
+
+Clear
+
+
+The Current List: 
+
+List Size: 0
+
+The list is empty.
+
+
+
+Entry: 6
+
+
+Entry: 0
+
+
+Entry: 9
+
+
+Entry: 4
+
+
+Pop_Front: The List is Empty
+
+
+Entry: 5
+
+Pop_Back: The List is Empty
+
+
+Entry: 4
+
+
+Pop_Front: The List is Empty
+
+
+Entry: 1
+
+Show the List
+
+List Size: 0
+
+The list is empty.
+
+
+
+Entry: 2
+
+Push_Front: PORTER, TRACY 
+
+
+The Current List: 
+
+List Size: 1
+
+PORTER, TRACY  | 
+
+
+Entry: 2
+
+Push_Front: HOLMES, ROBERT 
+
+
+The Current List: 
+
+List Size: 2
+
+HOLMES, ROBERT  | PORTER, TRACY  | 
+
+
+Entry: 2
+
+Push_Front: JACKSON, JANICE 
+
+
+The Current List: 
+
+List Size: 3
+
+JACKSON, JANICE  | HOLMES, ROBERT  | PORTER, TRACY  | 
+
+
+Entry: 3
+
+Push_Back: MILLER, ALVIN 
+
+
+The Current List: 
+
+List Size: 4
+
+JACKSON, JANICE  | HOLMES, ROBERT  | PORTER, TRACY  | 
+MILLER, ALVIN  | 
+
+
+Entry: 3
+
+Push_Back: LEE, HELEN 
+
+
+The Current List: 
+
+List Size: 5
+
+JACKSON, JANICE  | HOLMES, ROBERT  | PORTER, TRACY  | 
+MILLER, ALVIN  | LEE, HELEN  | 
+
+
+Entry: 3
+
+Push_Back: ANDERSON, FREDDIE 
+
+
+The Current List: 
+
+List Size: 6
+
+JACKSON, JANICE  | HOLMES, ROBERT  | PORTER, TRACY  | 
+MILLER, ALVIN  | LEE, HELEN  | ANDERSON, FREDDIE  | 
+
+
+Entry: 6
+
+Remove: VIRGINIA
+
+
+The Current List: 
+
+List Size: 6
+
+JACKSON, JANICE  | HOLMES, ROBERT  | PORTER, TRACY  | 
+MILLER, ALVIN  | LEE, HELEN  | ANDERSON, FREDDIE  | 
+
+
+Entry: 10
+
+Clear
+
+
+The Current List: 
+
+List Size: 0
+
+The list is empty.
+
+
+
+Entry: 6
+
+
+Entry: 0
+
+
+Entry: 9
+
+
+Entry: 4
+
+
+Pop_Front: The List is Empty
+
+
+Entry: 5
+
+Pop_Back: The List is Empty
+
+
+Entry: 4
+
+
+Pop_Front: The List is Empty
+
+
+Entry: 1
+
+Show the List
+
+List Size: 0
+
+The list is empty.
+
+
+
+Entry: 2
+
+Push_Front: BRYANT, SANDRA 
+
+
+The Current List: 
+
+List Size: 1
+
+BRYANT, SANDRA  | 
+
+
+Entry: 3
+
+Push_Back: ROBERTSON, JORGE 
+
+
+The Current List: 
+
+List Size: 2
+
+BRYANT, SANDRA  | ROBERTSON, JORGE  | 
+
+
+Entry: 3
+
+Push_Back: WILLIS, SHELLY 
+
+
+The Current List: 
+
+List Size: 3
+
+BRYANT, SANDRA  | ROBERTSON, JORGE  | WILLIS, SHELLY  | 
+
+
+Entry: 9
+
+Erase Position: 2
+
+
+The Current List: 
+
+List Size: 2
+
+BRYANT, SANDRA  | WILLIS, SHELLY  | 
+
+
+Entry: 12
+
+
+Exiting... 

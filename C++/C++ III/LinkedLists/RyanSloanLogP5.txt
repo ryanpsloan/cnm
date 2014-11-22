@@ -1,0 +1,702 @@
+Ryan Sloan 
+Linked List Script Log 
+
+
+Entry: 6
+
+
+Entry: 0
+
+
+Entry: 9
+
+
+Entry: 4
+
+
+Pop_Front: The List is Empty
+
+
+Entry: 5
+
+Pop_Back: The List is Empty
+
+
+Entry: 4
+
+
+Pop_Front: The List is Empty
+
+
+Entry: 1
+
+Show the List
+
+List Size: 0
+
+The list is empty.
+
+
+
+Entry: 3
+
+Push_Back: WALLACE, JO 
+
+
+The Current List: 
+
+List Size: 1
+
+WALLACE, JO  | 
+
+
+Entry: 3
+
+Push_Back: RAY, JUAN 
+
+
+The Current List: 
+
+List Size: 2
+
+WALLACE, JO  | RAY, JUAN  | 
+
+
+Entry: 3
+
+Push_Back: HERNANDEZ, PAULINE 
+
+
+The Current List: 
+
+List Size: 3
+
+WALLACE, JO  | RAY, JUAN  | HERNANDEZ, PAULINE  | 
+
+
+Entry: 3
+
+Push_Back: SIMMONS, ROBERT 
+
+
+The Current List: 
+
+List Size: 4
+
+WALLACE, JO  | RAY, JUAN  | HERNANDEZ, PAULINE  | 
+SIMMONS, ROBERT  | 
+
+
+Entry: 3
+
+Push_Back: PORTER, TRACY 
+
+
+The Current List: 
+
+List Size: 5
+
+WALLACE, JO  | RAY, JUAN  | HERNANDEZ, PAULINE  | 
+SIMMONS, ROBERT  | PORTER, TRACY  | 
+
+
+Entry: 3
+
+Push_Back: HOLMES, ROBERT 
+
+
+The Current List: 
+
+List Size: 6
+
+WALLACE, JO  | RAY, JUAN  | HERNANDEZ, PAULINE  | 
+SIMMONS, ROBERT  | PORTER, TRACY  | HOLMES, ROBERT  | 
+
+
+Entry: 3
+
+Push_Back: JACKSON, JANICE 
+
+
+The Current List: 
+
+List Size: 7
+
+WALLACE, JO  | RAY, JUAN  | HERNANDEZ, PAULINE  | 
+SIMMONS, ROBERT  | PORTER, TRACY  | HOLMES, ROBERT  | 
+JACKSON, JANICE  | 
+
+
+Entry: 3
+
+Push_Back: MILLER, ALVIN 
+
+
+The Current List: 
+
+List Size: 8
+
+WALLACE, JO  | RAY, JUAN  | HERNANDEZ, PAULINE  | 
+SIMMONS, ROBERT  | PORTER, TRACY  | HOLMES, ROBERT  | 
+JACKSON, JANICE  | MILLER, ALVIN  | 
+
+
+Entry: 3
+
+Push_Back: LEE, HELEN 
+
+
+The Current List: 
+
+List Size: 9
+
+WALLACE, JO  | RAY, JUAN  | HERNANDEZ, PAULINE  | 
+SIMMONS, ROBERT  | PORTER, TRACY  | HOLMES, ROBERT  | 
+JACKSON, JANICE  | MILLER, ALVIN  | LEE, HELEN  | 
+
+
+Entry: 3
+
+Push_Back: ANDERSON, FREDDIE 
+
+
+The Current List: 
+
+List Size: 10
+
+WALLACE, JO  | RAY, JUAN  | HERNANDEZ, PAULINE  | 
+SIMMONS, ROBERT  | PORTER, TRACY  | HOLMES, ROBERT  | 
+JACKSON, JANICE  | MILLER, ALVIN  | LEE, HELEN  | 
+ANDERSON, FREDDIE  | 
+
+
+Entry: 2
+
+Push_Front: BRYANT, SANDRA 
+
+
+The Current List: 
+
+List Size: 11
+
+BRYANT, SANDRA  | WALLACE, JO  | RAY, JUAN  | 
+HERNANDEZ, PAULINE  | SIMMONS, ROBERT  | PORTER, TRACY  | 
+HOLMES, ROBERT  | JACKSON, JANICE  | MILLER, ALVIN  | 
+LEE, HELEN  | ANDERSON, FREDDIE  | 
+
+
+Entry: 2
+
+Push_Front: ROBERTSON, JORGE 
+
+
+The Current List: 
+
+List Size: 12
+
+ROBERTSON, JORGE  | BRYANT, SANDRA  | WALLACE, JO  | 
+RAY, JUAN  | HERNANDEZ, PAULINE  | SIMMONS, ROBERT  | 
+PORTER, TRACY  | HOLMES, ROBERT  | JACKSON, JANICE  | 
+MILLER, ALVIN  | LEE, HELEN  | ANDERSON, FREDDIE  | 
+
+
+Entry: 2
+
+Push_Front: WILLIS, SHELLY 
+
+
+The Current List: 
+
+List Size: 13
+
+WILLIS, SHELLY  | ROBERTSON, JORGE  | BRYANT, SANDRA  | 
+WALLACE, JO  | RAY, JUAN  | HERNANDEZ, PAULINE  | 
+SIMMONS, ROBERT  | PORTER, TRACY  | HOLMES, ROBERT  | 
+JACKSON, JANICE  | MILLER, ALVIN  | LEE, HELEN  | 
+ANDERSON, FREDDIE  | 
+
+
+Entry: 6
+
+Remove: ROBERT
+
+
+The Current List: 
+
+List Size: 10
+
+WILLIS, SHELLY  | BRYANT, SANDRA  | WALLACE, JO  | 
+RAY, JUAN  | HERNANDEZ, PAULINE  | PORTER, TRACY  | 
+JACKSON, JANICE  | MILLER, ALVIN  | LEE, HELEN  | 
+ANDERSON, FREDDIE  | 
+
+
+Entry: 10
+
+Clear
+
+
+The Current List: 
+
+List Size: 0
+
+The list is empty.
+
+
+
+Entry: 6
+
+
+Entry: 0
+
+
+Entry: 9
+
+
+Entry: 4
+
+
+Pop_Front: The List is Empty
+
+
+Entry: 5
+
+Pop_Back: The List is Empty
+
+
+Entry: 4
+
+
+Pop_Front: The List is Empty
+
+
+Entry: 1
+
+Show the List
+
+List Size: 0
+
+The list is empty.
+
+
+
+Entry: 2
+
+Push_Front: RICHARDS, RENE 
+
+
+The Current List: 
+
+List Size: 1
+
+RICHARDS, RENE  | 
+
+
+Entry: 2
+
+Push_Front: MENDOZA, KATHY 
+
+
+The Current List: 
+
+List Size: 2
+
+MENDOZA, KATHY  | RICHARDS, RENE  | 
+
+
+Entry: 2
+
+Push_Front: KENNEDY, WALLACE 
+
+
+The Current List: 
+
+List Size: 3
+
+KENNEDY, WALLACE  | MENDOZA, KATHY  | RICHARDS, RENE  | 
+
+
+Entry: 2
+
+Push_Front: MITCHELL, ROBERTA 
+
+
+The Current List: 
+
+List Size: 4
+
+MITCHELL, ROBERTA  | KENNEDY, WALLACE  | MENDOZA, KATHY  | 
+RICHARDS, RENE  | 
+
+
+Entry: 2
+
+Push_Front: MCKINNEY, CECIL 
+
+
+The Current List: 
+
+List Size: 5
+
+MCKINNEY, CECIL  | MITCHELL, ROBERTA  | KENNEDY, WALLACE  | 
+MENDOZA, KATHY  | RICHARDS, RENE  | 
+
+
+Entry: 3
+
+Push_Back: OLSON, JAMIE 
+
+
+The Current List: 
+
+List Size: 6
+
+MCKINNEY, CECIL  | MITCHELL, ROBERTA  | KENNEDY, WALLACE  | 
+MENDOZA, KATHY  | RICHARDS, RENE  | OLSON, JAMIE  | 
+
+
+Entry: 3
+
+Push_Back: CALDWELL, FREDDIE 
+
+
+The Current List: 
+
+List Size: 7
+
+MCKINNEY, CECIL  | MITCHELL, ROBERTA  | KENNEDY, WALLACE  | 
+MENDOZA, KATHY  | RICHARDS, RENE  | OLSON, JAMIE  | 
+CALDWELL, FREDDIE  | 
+
+
+Entry: 3
+
+Push_Back: BATES, DIANE 
+
+
+The Current List: 
+
+List Size: 8
+
+MCKINNEY, CECIL  | MITCHELL, ROBERTA  | KENNEDY, WALLACE  | 
+MENDOZA, KATHY  | RICHARDS, RENE  | OLSON, JAMIE  | 
+CALDWELL, FREDDIE  | BATES, DIANE  | 
+
+
+Entry: 3
+
+Push_Back: KNIGHT, JUSTIN 
+
+
+The Current List: 
+
+List Size: 9
+
+MCKINNEY, CECIL  | MITCHELL, ROBERTA  | KENNEDY, WALLACE  | 
+MENDOZA, KATHY  | RICHARDS, RENE  | OLSON, JAMIE  | 
+CALDWELL, FREDDIE  | BATES, DIANE  | KNIGHT, JUSTIN  | 
+
+
+Entry: 3
+
+Push_Back: HERNANDEZ, DOROTHY 
+
+
+The Current List: 
+
+List Size: 10
+
+MCKINNEY, CECIL  | MITCHELL, ROBERTA  | KENNEDY, WALLACE  | 
+MENDOZA, KATHY  | RICHARDS, RENE  | OLSON, JAMIE  | 
+CALDWELL, FREDDIE  | BATES, DIANE  | KNIGHT, JUSTIN  | 
+HERNANDEZ, DOROTHY  | 
+
+
+Entry: 11
+
+Size: 10
+
+
+The Current List: 
+
+List Size: 10
+
+MCKINNEY, CECIL  | MITCHELL, ROBERTA  | KENNEDY, WALLACE  | 
+MENDOZA, KATHY  | RICHARDS, RENE  | OLSON, JAMIE  | 
+CALDWELL, FREDDIE  | BATES, DIANE  | KNIGHT, JUSTIN  | 
+HERNANDEZ, DOROTHY  | 
+
+
+Entry: 7
+
+Get Front: MCKINNEY, CECIL 
+
+The Current List: 
+
+List Size: 10
+
+MCKINNEY, CECIL  | MITCHELL, ROBERTA  | KENNEDY, WALLACE  | 
+MENDOZA, KATHY  | RICHARDS, RENE  | OLSON, JAMIE  | 
+CALDWELL, FREDDIE  | BATES, DIANE  | KNIGHT, JUSTIN  | 
+HERNANDEZ, DOROTHY  | 
+
+
+Entry: 8
+
+Get Back: HERNANDEZ, DOROTHY 
+
+The Current List: 
+
+List Size: 10
+
+MCKINNEY, CECIL  | MITCHELL, ROBERTA  | KENNEDY, WALLACE  | 
+MENDOZA, KATHY  | RICHARDS, RENE  | OLSON, JAMIE  | 
+CALDWELL, FREDDIE  | BATES, DIANE  | KNIGHT, JUSTIN  | 
+HERNANDEZ, DOROTHY  | 
+
+
+Entry: 4
+
+Pop_Front: MCKINNEY, CECIL 
+
+
+The Current List: 
+
+List Size: 9
+
+MITCHELL, ROBERTA  | KENNEDY, WALLACE  | MENDOZA, KATHY  | 
+RICHARDS, RENE  | OLSON, JAMIE  | CALDWELL, FREDDIE  | 
+BATES, DIANE  | KNIGHT, JUSTIN  | HERNANDEZ, DOROTHY  | 
+
+
+Entry: 5
+
+Pop_Back: HERNANDEZ, DOROTHY 
+
+
+The Current List: 
+
+List Size: 8
+
+MITCHELL, ROBERTA  | KENNEDY, WALLACE  | MENDOZA, KATHY  | 
+RICHARDS, RENE  | OLSON, JAMIE  | CALDWELL, FREDDIE  | 
+BATES, DIANE  | KNIGHT, JUSTIN  | 
+
+
+Entry: 7
+
+Get Front: MITCHELL, ROBERTA 
+
+The Current List: 
+
+List Size: 8
+
+MITCHELL, ROBERTA  | KENNEDY, WALLACE  | MENDOZA, KATHY  | 
+RICHARDS, RENE  | OLSON, JAMIE  | CALDWELL, FREDDIE  | 
+BATES, DIANE  | KNIGHT, JUSTIN  | 
+
+
+Entry: 8
+
+Get Back: KNIGHT, JUSTIN 
+
+The Current List: 
+
+List Size: 8
+
+MITCHELL, ROBERTA  | KENNEDY, WALLACE  | MENDOZA, KATHY  | 
+RICHARDS, RENE  | OLSON, JAMIE  | CALDWELL, FREDDIE  | 
+BATES, DIANE  | KNIGHT, JUSTIN  | 
+
+
+Entry: 9
+
+Erase Position: 2
+
+
+The Current List: 
+
+List Size: 7
+
+MITCHELL, ROBERTA  | MENDOZA, KATHY  | RICHARDS, RENE  | 
+OLSON, JAMIE  | CALDWELL, FREDDIE  | BATES, DIANE  | 
+KNIGHT, JUSTIN  | 
+
+
+Entry: 9
+
+Erase Position: 8
+
+
+The Current List: 
+
+List Size: 7
+
+MITCHELL, ROBERTA  | MENDOZA, KATHY  | RICHARDS, RENE  | 
+OLSON, JAMIE  | CALDWELL, FREDDIE  | BATES, DIANE  | 
+KNIGHT, JUSTIN  | 
+
+
+Entry: 10
+
+Clear
+
+
+The Current List: 
+
+List Size: 0
+
+The list is empty.
+
+
+
+Entry: 3
+
+Push_Back: MATTHEWS, DWAYNE 
+
+
+The Current List: 
+
+List Size: 1
+
+MATTHEWS, DWAYNE  | 
+
+
+Entry: 3
+
+Push_Back: LANE, JULIE 
+
+
+The Current List: 
+
+List Size: 2
+
+MATTHEWS, DWAYNE  | LANE, JULIE  | 
+
+
+Entry: 3
+
+Push_Back: EVANS, DAVE 
+
+
+The Current List: 
+
+List Size: 3
+
+MATTHEWS, DWAYNE  | LANE, JULIE  | EVANS, DAVE  | 
+
+
+Entry: 5
+
+Pop_Back: EVANS, DAVE 
+
+
+The Current List: 
+
+List Size: 2
+
+MATTHEWS, DWAYNE  | LANE, JULIE  | 
+
+
+Entry: 5
+
+Pop_Back: LANE, JULIE 
+
+
+The Current List: 
+
+List Size: 1
+
+MATTHEWS, DWAYNE  | 
+
+
+Entry: 5
+
+Pop_Back: MATTHEWS, DWAYNE 
+
+
+The Current List: 
+
+List Size: 0
+
+The list is empty.
+
+
+
+Entry: 2
+
+Push_Front: FORD, FLORENCE 
+
+
+The Current List: 
+
+List Size: 1
+
+FORD, FLORENCE  | 
+
+
+Entry: 2
+
+Push_Front: KNIGHT, STEVE 
+
+
+The Current List: 
+
+List Size: 2
+
+KNIGHT, STEVE  | FORD, FLORENCE  | 
+
+
+Entry: 2
+
+Push_Front: HALE, AMANDA 
+
+
+The Current List: 
+
+List Size: 3
+
+HALE, AMANDA  | KNIGHT, STEVE  | FORD, FLORENCE  | 
+
+
+Entry: 4
+
+Pop_Front: HALE, AMANDA 
+
+
+The Current List: 
+
+List Size: 2
+
+KNIGHT, STEVE  | FORD, FLORENCE  | 
+
+
+Entry: 4
+
+Pop_Front: KNIGHT, STEVE 
+
+
+The Current List: 
+
+List Size: 1
+
+FORD, FLORENCE  | 
+
+
+Entry: 10
+
+Clear
+
+
+The Current List: 
+
+List Size: 0
+
+The list is empty.
+
+
+
+Entry: 12
+
+
+Exiting... 

@@ -1,0 +1,330 @@
+Ryan Sloan 
+Linked List Script Log 
+
+
+Entry: 2
+
+Push_Front: WILLIS, CURTIS Age: 6 Birthday : December 25, 2006
+
+
+The Current List: 
+
+List Size: 1
+WILLIS, CURTIS Age: 6 Birthday : December 25, 2006 | 
+
+
+
+Entry: 2
+
+Push_Front: CARR, CONSTANCE Age: 19 Birthday : July 24, 1994
+
+
+The Current List: 
+
+List Size: 2
+CARR, CONSTANCE Age: 19 Birthday : July 24, 1994 | WILLIS, CURTIS Age: 6 Birthday : December 25, 2006 | 
+
+
+
+Entry: 2
+
+Push_Front: BENNETT, RONNIE Age: 75 Birthday : October 24, 1938
+
+
+The Current List: 
+
+List Size: 3
+BENNETT, RONNIE Age: 75 Birthday : October 24, 1938 | CARR, CONSTANCE Age: 19 Birthday : July 24, 1994 | 
+WILLIS, CURTIS Age: 6 Birthday : December 25, 2006 | 
+
+
+
+Entry: 2
+
+Push_Front: LOPEZ, KATIE Age: 27 Birthday : January 16, 1986
+
+
+The Current List: 
+
+List Size: 4
+LOPEZ, KATIE Age: 27 Birthday : January 16, 1986 | BENNETT, RONNIE Age: 75 Birthday : October 24, 1938 | 
+CARR, CONSTANCE Age: 19 Birthday : July 24, 1994 | WILLIS, CURTIS Age: 6 Birthday : December 25, 2006 | 
+
+
+
+Entry: 2
+
+Push_Front: OBRIEN, KEN Age: 58 Birthday : February  6, 1955
+
+
+The Current List: 
+
+List Size: 5
+OBRIEN, KEN Age: 58 Birthday : February  6, 1955 | LOPEZ, KATIE Age: 27 Birthday : January 16, 1986 | 
+BENNETT, RONNIE Age: 75 Birthday : October 24, 1938 | CARR, CONSTANCE Age: 19 Birthday : July 24, 1994 | 
+WILLIS, CURTIS Age: 6 Birthday : December 25, 2006 | 
+
+
+
+Entry: 2
+
+Push_Front: COOPER, LUCILLE Age: 84 Birthday : February  7, 1929
+
+
+The Current List: 
+
+List Size: 6
+COOPER, LUCILLE Age: 84 Birthday : February  7, 1929 | OBRIEN, KEN Age: 58 Birthday : February  6, 1955 | 
+LOPEZ, KATIE Age: 27 Birthday : January 16, 1986 | BENNETT, RONNIE Age: 75 Birthday : October 24, 1938 | 
+CARR, CONSTANCE Age: 19 Birthday : July 24, 1994 | WILLIS, CURTIS Age: 6 Birthday : December 25, 2006 | 
+
+
+
+Entry: 3
+
+Push_Back: HANSEN, PETER Age: 41 Birthday : March 17, 1972
+
+
+The Current List: 
+
+List Size: 7
+COOPER, LUCILLE Age: 84 Birthday : February  7, 1929 | OBRIEN, KEN Age: 58 Birthday : February  6, 1955 | 
+LOPEZ, KATIE Age: 27 Birthday : January 16, 1986 | BENNETT, RONNIE Age: 75 Birthday : October 24, 1938 | 
+CARR, CONSTANCE Age: 19 Birthday : July 24, 1994 | WILLIS, CURTIS Age: 6 Birthday : December 25, 2006 | 
+HANSEN, PETER Age: 41 Birthday : March 17, 1972 | 
+
+
+
+Entry: 3
+
+Push_Back: EVANS, MARION Age: 36 Birthday : March 14, 1977
+
+
+The Current List: 
+
+List Size: 8
+COOPER, LUCILLE Age: 84 Birthday : February  7, 1929 | OBRIEN, KEN Age: 58 Birthday : February  6, 1955 | 
+LOPEZ, KATIE Age: 27 Birthday : January 16, 1986 | BENNETT, RONNIE Age: 75 Birthday : October 24, 1938 | 
+CARR, CONSTANCE Age: 19 Birthday : July 24, 1994 | WILLIS, CURTIS Age: 6 Birthday : December 25, 2006 | 
+HANSEN, PETER Age: 41 Birthday : March 17, 1972 | EVANS, MARION Age: 36 Birthday : March 14, 1977 | 
+
+
+
+Entry: 3
+
+Push_Back: HORTON, PHILIP Age: 79 Birthday : October 4, 1934
+
+
+The Current List: 
+
+List Size: 9
+COOPER, LUCILLE Age: 84 Birthday : February  7, 1929 | OBRIEN, KEN Age: 58 Birthday : February  6, 1955 | 
+LOPEZ, KATIE Age: 27 Birthday : January 16, 1986 | BENNETT, RONNIE Age: 75 Birthday : October 24, 1938 | 
+CARR, CONSTANCE Age: 19 Birthday : July 24, 1994 | WILLIS, CURTIS Age: 6 Birthday : December 25, 2006 | 
+HANSEN, PETER Age: 41 Birthday : March 17, 1972 | EVANS, MARION Age: 36 Birthday : March 14, 1977 | 
+HORTON, PHILIP Age: 79 Birthday : October 4, 1934 | 
+
+
+
+Entry: 3
+
+Push_Back: WELCH, MILDRED Age: 83 Birthday : August 10, 1930
+
+
+The Current List: 
+
+List Size: 10
+COOPER, LUCILLE Age: 84 Birthday : February  7, 1929 | OBRIEN, KEN Age: 58 Birthday : February  6, 1955 | 
+LOPEZ, KATIE Age: 27 Birthday : January 16, 1986 | BENNETT, RONNIE Age: 75 Birthday : October 24, 1938 | 
+CARR, CONSTANCE Age: 19 Birthday : July 24, 1994 | WILLIS, CURTIS Age: 6 Birthday : December 25, 2006 | 
+HANSEN, PETER Age: 41 Birthday : March 17, 1972 | EVANS, MARION Age: 36 Birthday : March 14, 1977 | 
+HORTON, PHILIP Age: 79 Birthday : October 4, 1934 | WELCH, MILDRED Age: 83 Birthday : August 10, 1930 | 
+
+
+
+Entry: 3
+
+Push_Back: HOLLAND, ARTHUR Age: 61 Birthday : November 27, 1952
+
+
+The Current List: 
+
+List Size: 11
+COOPER, LUCILLE Age: 84 Birthday : February  7, 1929 | OBRIEN, KEN Age: 58 Birthday : February  6, 1955 | 
+LOPEZ, KATIE Age: 27 Birthday : January 16, 1986 | BENNETT, RONNIE Age: 75 Birthday : October 24, 1938 | 
+CARR, CONSTANCE Age: 19 Birthday : July 24, 1994 | WILLIS, CURTIS Age: 6 Birthday : December 25, 2006 | 
+HANSEN, PETER Age: 41 Birthday : March 17, 1972 | EVANS, MARION Age: 36 Birthday : March 14, 1977 | 
+HORTON, PHILIP Age: 79 Birthday : October 4, 1934 | WELCH, MILDRED Age: 83 Birthday : August 10, 1930 | 
+HOLLAND, ARTHUR Age: 61 Birthday : November 27, 1952 | 
+
+
+
+Entry: 4
+
+Pop_Front: COOPER, LUCILLE Age: 84 Birthday : February  7, 1929
+
+
+The Current List: 
+
+List Size: 10
+OBRIEN, KEN Age: 58 Birthday : February  6, 1955 | LOPEZ, KATIE Age: 27 Birthday : January 16, 1986 | 
+BENNETT, RONNIE Age: 75 Birthday : October 24, 1938 | CARR, CONSTANCE Age: 19 Birthday : July 24, 1994 | 
+WILLIS, CURTIS Age: 6 Birthday : December 25, 2006 | HANSEN, PETER Age: 41 Birthday : March 17, 1972 | 
+EVANS, MARION Age: 36 Birthday : March 14, 1977 | HORTON, PHILIP Age: 79 Birthday : October 4, 1934 | 
+WELCH, MILDRED Age: 83 Birthday : August 10, 1930 | HOLLAND, ARTHUR Age: 61 Birthday : November 27, 1952 | 
+
+
+
+Entry: 4
+
+Pop_Front: OBRIEN, KEN Age: 58 Birthday : February  6, 1955
+
+
+The Current List: 
+
+List Size: 9
+LOPEZ, KATIE Age: 27 Birthday : January 16, 1986 | BENNETT, RONNIE Age: 75 Birthday : October 24, 1938 | 
+CARR, CONSTANCE Age: 19 Birthday : July 24, 1994 | WILLIS, CURTIS Age: 6 Birthday : December 25, 2006 | 
+HANSEN, PETER Age: 41 Birthday : March 17, 1972 | EVANS, MARION Age: 36 Birthday : March 14, 1977 | 
+HORTON, PHILIP Age: 79 Birthday : October 4, 1934 | WELCH, MILDRED Age: 83 Birthday : August 10, 1930 | 
+HOLLAND, ARTHUR Age: 61 Birthday : November 27, 1952 | 
+
+
+
+Entry: 4
+
+Pop_Front: LOPEZ, KATIE Age: 27 Birthday : January 16, 1986
+
+
+The Current List: 
+
+List Size: 8
+BENNETT, RONNIE Age: 75 Birthday : October 24, 1938 | CARR, CONSTANCE Age: 19 Birthday : July 24, 1994 | 
+WILLIS, CURTIS Age: 6 Birthday : December 25, 2006 | HANSEN, PETER Age: 41 Birthday : March 17, 1972 | 
+EVANS, MARION Age: 36 Birthday : March 14, 1977 | HORTON, PHILIP Age: 79 Birthday : October 4, 1934 | 
+WELCH, MILDRED Age: 83 Birthday : August 10, 1930 | HOLLAND, ARTHUR Age: 61 Birthday : November 27, 1952 | 
+
+
+
+Entry: 5
+
+Pop_Back: HOLLAND, ARTHUR Age: 61 Birthday : November 27, 1952
+
+
+The Current List: 
+
+List Size: 7
+BENNETT, RONNIE Age: 75 Birthday : October 24, 1938 | CARR, CONSTANCE Age: 19 Birthday : July 24, 1994 | 
+WILLIS, CURTIS Age: 6 Birthday : December 25, 2006 | HANSEN, PETER Age: 41 Birthday : March 17, 1972 | 
+EVANS, MARION Age: 36 Birthday : March 14, 1977 | HORTON, PHILIP Age: 79 Birthday : October 4, 1934 | 
+WELCH, MILDRED Age: 83 Birthday : August 10, 1930 | 
+
+
+
+Entry: 5
+
+Pop_Back: WELCH, MILDRED Age: 83 Birthday : August 10, 1930
+
+
+The Current List: 
+
+List Size: 6
+BENNETT, RONNIE Age: 75 Birthday : October 24, 1938 | CARR, CONSTANCE Age: 19 Birthday : July 24, 1994 | 
+WILLIS, CURTIS Age: 6 Birthday : December 25, 2006 | HANSEN, PETER Age: 41 Birthday : March 17, 1972 | 
+EVANS, MARION Age: 36 Birthday : March 14, 1977 | HORTON, PHILIP Age: 79 Birthday : October 4, 1934 | 
+
+
+
+Entry: 5
+
+Pop_Back: HORTON, PHILIP Age: 79 Birthday : October 4, 1934
+
+
+The Current List: 
+
+List Size: 5
+BENNETT, RONNIE Age: 75 Birthday : October 24, 1938 | CARR, CONSTANCE Age: 19 Birthday : July 24, 1994 | 
+WILLIS, CURTIS Age: 6 Birthday : December 25, 2006 | HANSEN, PETER Age: 41 Birthday : March 17, 1972 | 
+EVANS, MARION Age: 36 Birthday : March 14, 1977 | 
+
+
+
+Entry: 6
+
+Remove: WILLIS, CURTIS
+
+
+The Current List: 
+
+List Size: 4
+BENNETT, RONNIE Age: 75 Birthday : October 24, 1938 | CARR, CONSTANCE Age: 19 Birthday : July 24, 1994 | 
+HANSEN, PETER Age: 41 Birthday : March 17, 1972 | EVANS, MARION Age: 36 Birthday : March 14, 1977 | 
+
+
+
+Entry: 7
+
+Get Front: BENNETT, RONNIE Age: 75 Birthday : October 24, 1938
+
+The Current List: 
+
+List Size: 4
+BENNETT, RONNIE Age: 75 Birthday : October 24, 1938 | CARR, CONSTANCE Age: 19 Birthday : July 24, 1994 | 
+HANSEN, PETER Age: 41 Birthday : March 17, 1972 | EVANS, MARION Age: 36 Birthday : March 14, 1977 | 
+
+
+
+Entry: 8
+
+Get Back: EVANS, MARION Age: 36 Birthday : March 14, 1977
+
+The Current List: 
+
+List Size: 4
+BENNETT, RONNIE Age: 75 Birthday : October 24, 1938 | CARR, CONSTANCE Age: 19 Birthday : July 24, 1994 | 
+HANSEN, PETER Age: 41 Birthday : March 17, 1972 | EVANS, MARION Age: 36 Birthday : March 14, 1977 | 
+
+
+
+Entry: 9
+
+Erase Position: 2
+
+
+The Current List: 
+
+List Size: 3
+BENNETT, RONNIE Age: 75 Birthday : October 24, 1938 | HANSEN, PETER Age: 41 Birthday : March 17, 1972 | 
+EVANS, MARION Age: 36 Birthday : March 14, 1977 | 
+
+
+
+Entry: 11
+
+Size: 3
+
+
+The Current List: 
+
+List Size: 3
+BENNETT, RONNIE Age: 75 Birthday : October 24, 1938 | HANSEN, PETER Age: 41 Birthday : March 17, 1972 | 
+EVANS, MARION Age: 36 Birthday : March 14, 1977 | 
+
+
+
+Entry: 10
+
+Clear
+
+
+The Current List: 
+
+List Size: 0
+The list is empty.
+
+
+
+Entry: 12
+
+
+Exiting... 

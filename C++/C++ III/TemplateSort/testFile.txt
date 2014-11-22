@@ -1,0 +1,31 @@
+Ryan Sloan Time Log
+
+Number of integer values sorted by each routine: 200000
+Number of string values sorted by each routine: 25000
+Number of Persons sorted by each routine: 10000
+
+Template Sort Information for Integers
+Name of Sort Function: 						Elapsed Time in msec.secs
+BubbleSort Int                         445365 : 445.365
+Comb11Sort Int                         117 : 0.117
+InsertionSort Int                      77393 : 77.393
+SelectionSort Int                      149005 : 149.005
+ShakerSort Int                         135991 : 135.991
+
+
+Template Sort Information for Strings
+Name of Sort Function: 						Elapsed Time in msec.secs
+BubbleSort Str                         1659526 : 1659.53
+Comb11Sort Str                         2028 : 2.028
+InsertionSort Str                      603970 : 603.97
+SelectionSort Str                      354475 : 354.475
+ShakerSort Str                         312780 : 312.78
+
+
+Template Sort Information for Persons
+Name of Sort Function: 						Elapsed Time in msec.secs
+BubbleSort Person                        1722664 : 1722.66
+Comb11Sort Person                        4226 : 4.226
+InsertionSort Person                     438429 : 438.429
+SelectionSort Person                     637143 : 637.143
+ShakerSort Person                        708347 : 708.347

@@ -1,0 +1,6 @@
+A loan with a principal of 325000
+and an interest rate of 0.0325
+for a term of 30 years, 
+has a monthly payment of $1414.42
+and a total value of $509191
+with a total interest of $184191

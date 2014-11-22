@@ -1,0 +1,33 @@
+Ryan Sloan Time Log
+FileName: BJTest200K.txt
+FileSize: 200000
+
+
+
+BubbleSort Execution time: 156.838 seconds.
+
+
+Comb11Sort  Execution time: 0.063 seconds.
+
+
+GoofySort Execution time: 119 seconds.
+
+
+InsertionSort Execution time: 47.156 seconds.
+
+
+SelectionSort Execution time: 71.425 seconds.
+
+
+ShakerSort Execution time: 56.94 seconds.
+
+
+ShellSort Execution time: 0.062 seconds.
+
+
+QuickSort Execution time: 0.046 seconds.
+
+
+InPlaceMerge Execution time: 33.368 seconds.
+
+

@@ -1,0 +1,165 @@
+Ryan Sloan - SloanP7 - Hash Table Log
+
+Creating new Pointer to Person and Pointer to Person Generator...
+
+Opening File: BJ_Persons2000.txt
+Successfully Using File: BJ_Persons2000.txt
+
+Declaring Hash Table of 100 Buckets...
+
+Creating 2000 Persons...
+Hashing 2000 Persons...
+
+Analyzing Distribution...
+Table       Number of Nodes per SLM       % of 2000 total Hashed Persons
+Table 1 |              18                   0.009% 
+Table 2 |              22                   0.011% 
+Table 3 |              22                   0.011% 
+Table 4 |              20                   0.01% 
+Table 5 |              15                   0.0075% 
+Table 6 |              31                   0.0155% 
+Table 7 |              22                   0.011% 
+Table 8 |              18                   0.009% 
+Table 9 |              20                   0.01% 
+Table 10 |              19                   0.0095% 
+Table 11 |              13                   0.0065% 
+Table 12 |              21                   0.0105% 
+Table 13 |              19                   0.0095% 
+Table 14 |              21                   0.0105% 
+Table 15 |              17                   0.0085% 
+Table 16 |              19                   0.0095% 
+Table 17 |              19                   0.0095% 
+Table 18 |              16                   0.008% 
+Table 19 |              26                   0.013% 
+Table 20 |              16                   0.008% 
+Table 21 |              24                   0.012% 
+Table 22 |              18                   0.009% 
+Table 23 |              19                   0.0095% 
+Table 24 |              20                   0.01% 
+Table 25 |              21                   0.0105% 
+Table 26 |              14                   0.007% 
+Table 27 |              20                   0.01% 
+Table 28 |              24                   0.012% 
+Table 29 |              17                   0.0085% 
+Table 30 |              17                   0.0085% 
+Table 31 |              18                   0.009% 
+Table 32 |              21                   0.0105% 
+Table 33 |              10                   0.005% 
+Table 34 |              23                   0.0115% 
+Table 35 |              28                   0.014% 
+Table 36 |              34                   0.017% 
+Table 37 |              21                   0.0105% 
+Table 38 |              17                   0.0085% 
+Table 39 |              31                   0.0155% 
+Table 40 |              17                   0.0085% 
+Table 41 |              21                   0.0105% 
+Table 42 |              25                   0.0125% 
+Table 43 |              17                   0.0085% 
+Table 44 |              23                   0.0115% 
+Table 45 |              25                   0.0125% 
+Table 46 |              31                   0.0155% 
+Table 47 |              19                   0.0095% 
+Table 48 |              15                   0.0075% 
+Table 49 |              22                   0.011% 
+Table 50 |              14                   0.007% 
+Table 51 |              15                   0.0075% 
+Table 52 |              16                   0.008% 
+Table 53 |              19                   0.0095% 
+Table 54 |              22                   0.011% 
+Table 55 |              18                   0.009% 
+Table 56 |              20                   0.01% 
+Table 57 |              17                   0.0085% 
+Table 58 |              16                   0.008% 
+Table 59 |              30                   0.015% 
+Table 60 |              24                   0.012% 
+Table 61 |              21                   0.0105% 
+Table 62 |              15                   0.0075% 
+Table 63 |              23                   0.0115% 
+Table 64 |              21                   0.0105% 
+Table 65 |              22                   0.011% 
+Table 66 |              18                   0.009% 
+Table 67 |              10                   0.005% 
+Table 68 |              21                   0.0105% 
+Table 69 |              18                   0.009% 
+Table 70 |              19                   0.0095% 
+Table 71 |              20                   0.01% 
+Table 72 |              19                   0.0095% 
+Table 73 |              18                   0.009% 
+Table 74 |              25                   0.0125% 
+Table 75 |              22                   0.011% 
+Table 76 |              21                   0.0105% 
+Table 77 |              21                   0.0105% 
+Table 78 |              20                   0.01% 
+Table 79 |              12                   0.006% 
+Table 80 |              33                   0.0165% 
+Table 81 |              18                   0.009% 
+Table 82 |              11                   0.0055% 
+Table 83 |              18                   0.009% 
+Table 84 |              26                   0.013% 
+Table 85 |              15                   0.0075% 
+Table 86 |              26                   0.013% 
+Table 87 |              10                   0.005% 
+Table 88 |              16                   0.008% 
+Table 89 |              23                   0.0115% 
+Table 90 |              21                   0.0105% 
+Table 91 |              21                   0.0105% 
+Table 92 |              20                   0.01% 
+Table 93 |              24                   0.012% 
+Table 94 |              21                   0.0105% 
+Table 95 |              17                   0.0085% 
+Table 96 |              20                   0.01% 
+Table 97 |              15                   0.0075% 
+Table 98 |              18                   0.009% 
+Table 99 |              22                   0.011% 
+Table 100 |              22                   0.011% 
+-------------------------------------
+
+Creating Second Person Generator...
+Opening File: BJ_42PersonsToFind.txt
+    Successfully Using File: BJ_42PersonsToFind.txt
+Reading in Names to Find...
+FOUND: FIELDS, STACEY Age: 75 Birthday : May 11, 1938
+FOUND: LITTLE, LANCE Age: 9 Birthday : July 20, 2004
+FOUND: KIM, LOUISE Age: 27 Birthday : May 6, 1986
+FOUND: HARVEY, JON Age: 37 Birthday : July 5, 1976
+FOUND: BROWN, LENA Age: 78 Birthday : May 7, 1935
+FOUND: NELSON, DENNIS Age: 29 Birthday : February  7, 1984
+FOUND: BURKE, PAULINE Age: 14 Birthday : August 18, 1999
+FOUND: SCOTT, DIANNE Age: 16 Birthday : April 11, 1997
+FOUND: MILLS, WADE Age: 32 Birthday : October 18, 1981
+LAWSON, TIM-> NOT FOUND
+FOUND: BARNES, DEREK Age: 44 Birthday : April 20, 1969
+BAILEY, MARY-> NOT FOUND
+FOUND: HART, DIANNE Age: 55 Birthday : September 28, 1958
+FOUND: CAMPBELL, THEODORE Age: 41 Birthday : November 16, 1972
+FOUND: JONES, DAISY Age: 32 Birthday : July 8, 1981
+FOUND: JOHNSTON, JIM Age: 57 Birthday : October 9, 1956
+ORTIZ, DELORES-> NOT FOUND
+KIM, LOUISE-> NOT FOUND
+MILLS, RENEE-> NOT FOUND
+JOHNSTON, JIM-> NOT FOUND
+PIERCE, CALVIN-> NOT FOUND
+KRALC, CATHY-> NOT FOUND
+DAVIS, ANTONIO-> NOT FOUND
+BURTON, CHESTER-> NOT FOUND
+FOUND: CARR, JUDY Age: 31 Birthday : August 7, 1982
+FOUND: ANDERSON, TED Age: 13 Birthday : January 8, 2000
+FOUND: ROBERTSON, WILLIAM Age: 66 Birthday : December 24, 1946
+FOUND: NGUYEN, PENNY Age: 40 Birthday : September 4, 1973
+HARVEY, JON-> NOT FOUND
+AMAM, HANNAH-> NOT FOUND
+BURKE, PAULINE-> NOT FOUND
+FOUND: GRAY, ANTHONY Age: 64 Birthday : November 3, 1949
+FOUND: KIM, CHRISTINE Age: 44 Birthday : October 29, 1969
+FOUND: RAY, ANTONIO Age: 77 Birthday : May 9, 1936
+FOUND: SCHMIDT, ELSIE Age: 78 Birthday : September 27, 1935
+FOUND: PIERCE, CALVIN Age: 37 Birthday : July 15, 1976
+FOUND: LAWSON, TIM Age: 56 Birthday : June 2, 1957
+FOUND: TERRY, FRANCES Age: 78 Birthday : August 19, 1935
+FIELDS, STACEY-> NOT FOUND
+MYERS, DANIEL-> NOT FOUND
+FOUND: NEAL, KAREN Age: 18 Birthday : November 14, 1995
+FOUND: OLSON, ALAN Age: 47 Birthday : November 3, 1966
+END OF FILE
+Setting up Log File: Sloan_P7_Log.txt
+Writing to File
